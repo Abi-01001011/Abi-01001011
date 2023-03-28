@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abi-01001011
 - 👀 I’m interested in development 
-- 🌱 I’m currently learning lua
+- 🌱 I’m currently learning javascript/mern-stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
