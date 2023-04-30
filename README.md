@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abilash_kesavan" target="blank"><img src="https://img.shields.io/twitter/follow/abilash_kesavan?logo=twitter&style=for-the-badge" alt="abilash_kesavan" /></a> </p>
 
-- 💬 Ask me about **nodejs react**
+- 💬 Ask me about **nodejs,react**
 
 - 📫 How to reach me **lashabi309@gmail.com**
 
