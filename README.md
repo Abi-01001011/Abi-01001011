@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **nodejs,react**
 
-- 🌱currently learning Swift 
+- 🌱currently learning react 
 
 - 📫 How to reach me **lashabi309@gmail.com**
 
